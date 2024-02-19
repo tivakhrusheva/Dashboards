@@ -1,13 +1,17 @@
 # Dashboards
 
 ## **Yandex Datalens**:
-#### **Dataset**: New York City Airbnb Open Data (https://www.kaggle.com/datasets/dgomonov/new-york-cityairbnb-open-data)
+#### **Dataset**: 
+New York City Airbnb Open Data (https://www.kaggle.com/datasets/dgomonov/new-york-cityairbnb-open-data)
 
-#### **Dashboard name**: Airbnb in New York: Dashboard for Investors, Hosts & Property Buyers
+#### **Dashboard name**: 
+Airbnb in New York: Dashboard for Investors, Hosts & Property Buyers
 
-#### **Link to the dashboard**: https://datalens.yandex/thr6l9ap14iqh
+#### **Link to the dashboard**:
+https://datalens.yandex/thr6l9ap14iqh
 
-#### **Goal of the dashboard**: to provide an overview of the Airbnb market to investors, realtors and potential
+#### **Goal of the dashboard**:
+to provide an overview of the Airbnb market to investors, realtors and potential
 buyers of housing for future rental. The dashboard should help identify trends and patterns in the data,
 allowing you to make decisions about housing prices, marketing strategies depending on demand at the
 point, purchase, opening of new rental points or their closure.
