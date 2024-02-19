@@ -120,8 +120,9 @@ The purpose of the dashboard: to provide an overview of the Airbnb market to inv
 These filters allow the user to select the type of housing and location on the map to obtain accurate statistics on housing prices. This is useful, for example, if the user wants to find out the average price for an apartment in a certain area of the city or compare prices for houses and apartments.
 
 ### **Options**: aggregation type to display housing price statistics
-  – central tendency measures -- mean, median, minimum or maximum.
+Central tendency measures -- mean, median, minimum or maximum.
 Aggregation options allow the user to choose which statistics to use to display home prices. The average can be useful to understand the overall price trend in the real estate market, while the median can be useful to understand which home prices are most common.
 
-### **Actions**: filtering all graphs by housing type, highlighting the selected housing type. I considered them useful for the same reasons as filters
+### **Actions**:
+Filtering all graphs by housing type, highlighting the selected housing type. I considered them useful for the same reasons as filters
 
